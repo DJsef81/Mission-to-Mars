@@ -20,3 +20,11 @@ Flask, a web framework, that allows her to create the web app with python, then 
 Create a portfolio to showcase her projects, including this one. 
 Use Bootstrap 
 
+## Software 
+- Python 3.7.7
+- selenium-3.141.0 
+- splinter-0.14.0
+- webdriver_manager-3.2.2
+- bs4-0.0.1
+- pymongo-3.11.2
+- Bootstrap 3
